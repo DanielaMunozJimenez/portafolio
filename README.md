@@ -1,5 +1,7 @@
-# portafolio
-Dashboard interactivo en Power BI del proyecto Análisis de Trasplantes de la CENATRA.  
+# Portafolio
+Dashboard interactivo en Power BI del proyecto Análisis de Trasplantes de la CENATRA. Incluye la fuente de datos en formato csv. Los datos fueron obtenidos de:
+ Trasplantes (CENATRA). Datos.gob.mx. 
+https://www.datos.gob.mx/organization/about/cenatra
 
 # Informe trasplantes CENATRA
 
